@@ -1,5 +1,5 @@
 ### EXP NO 6: SHANNAON FANO CODING
-### DATE:
+### DATE :
 ### AIM : 
  To implement QPSK using MATLAB
  ### PROGRAM:
@@ -114,4 +114,4 @@ Enter probability of E : 0.05
     C        0.15    110
     E        0.05    111
 ### RESULT
-Thus the generation of Shannon fano was implemented using MATLAB
+Thus the generation of Shannon fano was implemented using MATLAB.
